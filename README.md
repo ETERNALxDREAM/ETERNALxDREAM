@@ -69,8 +69,12 @@
       <img width="300" height="280" alt="1000032735" src="https://github.com/user-attachments/assets/8bedd9b5-b8e4-42c6-b321-4a65374f3c9a" />
     <!-- Колонка с текстом (размер шрифта увеличен до 32px) -->
     <td style="vertical-align: middle; border: none; width: 100%;">
-      <h2 style="margin: 0; padding: 0; border: none; font-size: 32px;">MEMORY GONE</h2>
+      <h2 style="margin: 0; padding: 0; border: none; font-size: 32px;">T𐋏E 𑀥EPARTE𑀥 A𐍃 A 𐌑E𐌑𐌏RY</h2>
     </td>
   </tr>
 </table>
 <hr style="height: 1px; border: none; background-color: #30363d; margin-top: 15px;" />
+<h1 align="center">𝘐 𝘭𝘪𝘬𝘦...
+<h3 align="center">𝘗𝘳𝘢𝘪𝘴𝘦, 𝘍𝘢𝘮𝘪𝘭𝘺, 𝘓𝘰𝘷𝘦𝘥 𝘖𝘯𝘦𝘴, 𝘍𝘳𝘪𝘦𝘯𝘥𝘴, 𝘓𝘰𝘷𝘦, 𝘙𝘦𝘴𝘱𝘦𝘤𝘵.
+<h1 align="center">𝘉𝘶𝘵...
+<h2 align="center">I ᥲⲙ ρᥲrᥲɗ᧐᥊iᥴᥲᥣ
