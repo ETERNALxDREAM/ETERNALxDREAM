@@ -3,14 +3,16 @@
 <h3 align="center">...right?<h3></h3>
 <h2 align="center">A dream that warmed me,there you and I are happy.<h2></h2>
 <img width="100" height="180" alt="1000032690" src="https://github.com/user-attachments/assets/c2788aa6-d265-437e-93a1-4f54769ba3e2" />
-<img width="100" height="180" alt="1000032691" src="https://github.com/user-attachments/assets/f3c5a9b6-9893-47ee-9767-37c929baa4dd" /><h4 align="center">A dream that lasts a lifetime
-
-
-<p align="center">
-<p align="center">
-
-<h2 style="display: flex; align-items: center; gap: 15px; border-bottom: 1px solid #30363d; padding-bottom: 8px;">
-  <img width="155" height="155" alt="1000032690" src="https://github.com/user-attachments/assets/c2788aa6-d265-437e-93a1-4f54769ba3e2"</>middle;" />
-  <span style="vertical-align: middle;">A dream that lasts a lifetime</span>
-</h2>
-
+<img width="100" height="180" alt="1000032691" src="https://github.com/user-attachments/assets/f3c5a9b6-9893-47ee-9767-37c929baa4dd" /><
+    <table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- Колонка с эйдолоном -->
+    <td style="vertical-align: middle; border: none; padding-right: 15px;">
+      <img width="155" height="155" alt="1000032690" src="https://github.com/user-attachments/assets/c2788aa6-d265-437e-93a1-4f54769ba3e2" />
+    <!-- Колонка с текстом -->
+    <td style="vertical-align: middle; border: none; width: 100%;">
+      <h2 style="margin: 0; padding: 0; border: none; font-size: 26px;">Мечта, которая длится всю жизнь</h2>
+    </td>
+  </tr>
+</table>
+<hr style="height: 1px; border: none; background-color: #30363d; margin-top: 10px;" />
