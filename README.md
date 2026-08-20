@@ -66,7 +66,7 @@
   <tr>
 <!-- Колонка с эйдолоном (размер увеличен до 120px) -->
     <td style="vertical-align: middle; border: none; padding-right: 20px;">
-      <img width="400" height="300" alt="1000032727" src="https://github.com/user-attachments/assets/75ffab3f-210f-48fa-a282-358cd302dacf" />
+      <img width="300" height="280" alt="1000032728" src="https://github.com/user-attachments/assets/30930e78-5073-4e11-b70d-629e7d2d8907" />
     <!-- Колонка с текстом (размер шрифта увеличен до 32px) -->
     <td style="vertical-align: middle; border: none; width: 100%;">
       <h2 style="margin: 0; padding: 0; border: none; font-size: 32px;">MEMORY GONE</h2>
