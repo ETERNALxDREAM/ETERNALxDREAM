@@ -30,7 +30,7 @@
   <tr>
     <!-- Колонка с эйдолоном (размер увеличен до 120px) -->
     <td style="vertical-align: middle; border: none; padding-right: 20px;">
-      <img width="300" height="200" alt="1000032679" src="https://github.com/user-attachments/assets/ef7f0ebf-7a58-4c02-b7e3-9a4b72433ec4" />
+      <img width="300" height="270" alt="1000032719" src="https://github.com/user-attachments/assets/cd050023-7ebc-44f9-a9f4-94edfb18fd36" />
     <!-- Колонка с текстом (размер шрифта увеличен до 32px) -->
     <td style="vertical-align: middle; border: none; width: 100%;">
       <h2 style="margin: 0; padding: 0; border: none; font-size: 32px;">𐍃I𑀉𐋏𐌏𐌵ETTE𐍃 I𐌽 𑀥REA𐌑</h2>
