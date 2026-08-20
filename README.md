@@ -9,4 +9,8 @@
 <p align="center">
 <p align="center">
 
+<h2 style="display: flex; align-items: center; gap: 15px; border-bottom: 1px solid #30363d; padding-bottom: 8px;">
+  <img width="155" height="155" alt="1000032690" src="https://github.com/user-attachments/assets/c2788aa6-d265-437e-93a1-4f54769ba3e2"</>middle;" />
+  <span style="vertical-align: middle;">A dream that lasts a lifetime</span>
+</h2>
 
