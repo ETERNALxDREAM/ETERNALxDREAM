@@ -12,9 +12,16 @@
       <img width="200" height="200" alt="1000032690" src="https://github.com/user-attachments/assets/c2788aa6-d265-437e-93a1-4f54769ba3e2" />
     <!-- Колонка с текстом (размер шрифта увеличен до 32px) -->
     <td style="vertical-align: middle; border: none; width: 100%;">
-      <h2 style="margin: 0; padding: 0; border: none; font-size: 32px;">Мечта, которая длится всю жизнь</h2>
+      <h2 style="margin: 0; padding: 0; border: none; font-size: 32px;">A 𑀥REA𐌑 T𐋏AT 𑀉A𐍃T𐍃 A 𑀉IFETI𐌑E</h2>
     </td>
   </tr>
 </table>
 <hr style="height: 1px; border: none; background-color: #30363d; margin-top: 15px;" />
 
+<h4 align="left">«sʟᴇᴇᴘ ɪs ᴏᴜʀ ᴛᴇᴍᴘᴏʀᴀʀʏ ᴋɪɴɢᴅᴏᴍ, ᴡᴇ ᴍᴜsᴛ ᴀᴡᴀᴋᴇɴ ғʀᴏᴍ ɪᴛ. sʟᴇᴇᴘ ᴀᴄᴛs ᴀs ᴀ ᴄʟᴇᴀɴsᴇʀ ᴏғ ɴᴇɢᴀᴛɪᴠɪᴛʏ. sʟᴇᴇᴘ sʜᴏᴜʟᴅɴ'ᴛ ʟᴀsᴛ ғᴏʀᴇᴠᴇʀ... ɪs ᴛʜᴀᴛ?»
+
+... 
+
+«ᴘᴇʀʜᴀᴘs sᴏ. ʙᴜᴛ ᴛʜɪs ʟɪғᴇʟᴏɴɢ ᴅʀᴇᴀᴍ sᴇᴇᴍs ᴇᴛᴇʀɴᴀʟ. ᴇsᴄᴀᴘɪɴɢ ғʀᴏᴍ ʀᴇᴀʟɪᴛʏ, ɪ ᴄᴀᴍᴇ ʜᴇʀᴇ. ᴡʜᴀᴛ ᴀʙᴏᴜᴛ ᴍᴇ?...»
+
+<h2 align="center">ᴇɴғᴘ, 7ᴡ6/4ᴡ3/6ᴡ7, ᴄʜᴏʟᴇʀɪᴄ, ᴀᴍʙɪᴠᴇʀᴛ
