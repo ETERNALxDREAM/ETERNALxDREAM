@@ -1,4 +1,4 @@
-<img width="1920" height="980" alt="1000032718" src="https://github.com/user-attachments/assets/35a21817-3f3f-4259-b762-c1cd3c61da12" />
+<h4 align="center"><img width="888" height="390" alt="1000032753" src="https://github.com/user-attachments/assets/69ea9d84-47f6-4cc0-890a-e98bcbf61271" />
 <h1 align="center">.𖥔 ݁ ˖Eᴛᥱrᥒᥲᥣ ɗrᥱᥲⲙ.𖥔 ݁ ˖</h1>
 <h3 align="center">... 𝘳𝘪𝘨𝘩𝘵?<h3></h3>
 <h2 align="center">𝖠 𝖽𝗋𝖾𝖺𝗆 𝗍𝗁𝖺𝗍 𝗐𝖺𝗋𝗆𝖾𝖽 𝗆𝖾,𝗍𝗁𝖾𝗋𝖾 𝗒𝗈𝗎 𝖺𝗇𝖽 𝖨 𝖺𝗋𝖾 𝗁𝖺𝗉𝗉𝗒.<h2></h2>
@@ -92,7 +92,6 @@
 </table>
 <hr style="height: 1px; border: none; background-color: #30363d; margin-top: 15px;" />
 <h3 align="left">«ʟɪғᴇ... ɪs ᴀ ᴄᴏɴsᴛᴀɴᴛ ᴍᴇᴛᴀʙᴏʟɪsᴍ, ʀᴇsᴘɪʀᴀᴛɪᴏɴ ᴀɴᴅ ᴏᴛʜᴇʀ sɪɢɴs ᴏғ ʟɪғᴇ ғʀᴏᴍ ᴀ ʙɪᴏʟᴏɢɪᴄᴀʟ ᴘᴏɪɴᴛ ᴏғ ᴠɪᴇᴡ. ᴀɴᴅ ғʀᴏᴍ ᴍʏ ᴘᴏɪɴᴛ ᴏғ ᴠɪᴇᴡ? ᴡᴇʟʟ, ғᴏʀ ᴍᴇ, ᴛʜɪs ɪs ᴀ ʙᴇɪɴɢ ᴛʜᴀᴛ ʜᴀs sᴇʟғ-ᴀᴡᴀʀᴇɴᴇss, ᴄᴀᴘᴀʙʟᴇ ᴏғ ʀᴇᴀʟɪᴢɪɴɢ ᴛʜᴀᴛ ɪᴛ ʜᴀs ᴛʜᴇ ᴄʜᴀʀᴀᴄᴛᴇʀɪsᴛɪᴄs ᴏғ ʙᴇɪɴɢ ᴀʟɪᴠᴇ, ᴀɴᴅ ᴜɴᴅᴇʀsᴛᴀɴᴅs ᴛʜᴀᴛ ᴇᴠᴇʀʏᴛʜɪɴɢ ɪs ᴏᴠᴇʀ. ᴅᴇᴀᴛʜ... ᴛʜᴇ ᴇɴᴅ ᴏғ ᴀʟʟ ᴛʜᴀᴛ ᴇxɪsᴛs, ᴡʜɪᴄʜ ᴄʀᴏssᴇs ᴏᴜᴛ ᴀɴᴅ ᴘᴜᴛs ᴀɴ ᴇɴᴅ ᴛᴏ ᴀʟʟ sɪɢɴs ᴏғ ʟɪғᴇ. ʟɪғᴇ ᴇɴᴅs ᴡʜᴇɴ ғʟᴏᴡᴇʀs ʙʟᴏᴏᴍ.»
-
-<h4 align="center"><img width="888" height="390" alt="1000032753" src="https://github.com/user-attachments/assets/69ea9d84-47f6-4cc0-890a-e98bcbf61271" />
+<img width="1920" height="980" alt="1000032718" src="https://github.com/user-attachments/assets/35a21817-3f3f-4259-b762-c1cd3c61da12" />
 
 
