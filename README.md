@@ -78,4 +78,17 @@
 <h1 align="center">𝘐 𝘭𝘪𝘬𝘦...
 <h3 align="center">𝘗𝘳𝘢𝘪𝘴𝘦, 𝘍𝘢𝘮𝘪𝘭𝘺, 𝘓𝘰𝘷𝘦𝘥 𝘖𝘯𝘦𝘴, 𝘍𝘳𝘪𝘦𝘯𝘥𝘴, 𝘓𝘰𝘷𝘦, 𝘙𝘦𝘴𝘱𝘦𝘤𝘵.
 <h1 align="center">𝘉𝘶𝘵...
-<h2 align="center">I ᥲⲙ ρᥲrᥲɗ᧐᥊iᥴᥲᥣ
+<h2 align="center">I ᥲⲙ ρᥲrᥲɗ᧐᥊iᥴᥲᥣ<h2></h2>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- Колонка с эйдолоном (размер увеличен до 120px) -->
+    <td style="vertical-align: middle; border: none; padding-right: 20px;">
+      <img width="300" height="280" alt="1000032738" src="https://github.com/user-attachments/assets/7d0c58a9-5f15-427d-a50c-7637e62a3ec7" />
+    <!-- Колонка с текстом (размер шрифта увеличен до 32px) -->
+    <td style="vertical-align: middle; border: none; width: 100%;">
+      <h2 style="margin: 0; padding: 0; border: none; font-size: 32px;">𑀥EAT𐋏 A𐌽𑀥 𑀉IFE</h2>
+    </td>
+  </tr>
+</table>
+<hr style="height: 1px; border: none; background-color: #30363d; margin-top: 15px;" />
+<h3 align="left">«ʟɪғᴇ... ɪs ᴀ ᴄᴏɴsᴛᴀɴᴛ ᴍᴇᴛᴀʙᴏʟɪsᴍ, ʀᴇsᴘɪʀᴀᴛɪᴏɴ ᴀɴᴅ ᴏᴛʜᴇʀ sɪɢɴs ᴏғ ʟɪғᴇ ғʀᴏᴍ ᴀ ʙɪᴏʟᴏɢɪᴄᴀʟ ᴘᴏɪɴᴛ ᴏғ ᴠɪᴇᴡ. ᴀɴᴅ ғʀᴏᴍ ᴍʏ ᴘᴏɪɴᴛ ᴏғ ᴠɪᴇᴡ? ᴡᴇʟʟ, ғᴏʀ ᴍᴇ, ᴛʜɪs ɪs ᴀ ʙᴇɪɴɢ ᴛʜᴀᴛ ʜᴀs sᴇʟғ-ᴀᴡᴀʀᴇɴᴇss, ᴄᴀᴘᴀʙʟᴇ ᴏғ ʀᴇᴀʟɪᴢɪɴɢ ᴛʜᴀᴛ ɪᴛ ʜᴀs ᴛʜᴇ ᴄʜᴀʀᴀᴄᴛᴇʀɪsᴛɪᴄs ᴏғ ʙᴇɪɴɢ ᴀʟɪᴠᴇ, ᴀɴᴅ ᴜɴᴅᴇʀsᴛᴀɴᴅs ᴛʜᴀᴛ ᴇᴠᴇʀʏᴛʜɪɴɢ ɪs ᴏᴠᴇʀ. ᴅᴇᴀᴛʜ... ᴛʜᴇ ᴇɴᴅ ᴏғ ᴀʟʟ ᴛʜᴀᴛ ᴇxɪsᴛs, ᴡʜɪᴄʜ ᴄʀᴏssᴇs ᴏᴜᴛ ᴀɴᴅ ᴘᴜᴛs ᴀɴ ᴇɴᴅ ᴛᴏ ᴀʟʟ sɪɢɴs ᴏғ ʟɪғᴇ. ʟɪғᴇ ᴇɴᴅs ᴡʜᴇɴ ғʟᴏᴡᴇʀs ʙʟᴏᴏᴍ.»
