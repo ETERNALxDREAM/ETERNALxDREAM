@@ -46,7 +46,7 @@
   <tr>
     <!-- Колонка с эйдолоном (размер увеличен до 120px) -->
     <td style="vertical-align: middle; border: none; padding-right: 20px;">
-      <img width="300" height="210" alt="1000032691" src="https://github.com/user-attachments/assets/f3c5a9b6-9893-47ee-9767-37c929baa4dd" /><
+      <img width="300" height="270" alt="1000032720" src="https://github.com/user-attachments/assets/404e561b-aa2e-40b9-8b9a-f251a41159ce" />
     <!-- Колонка с текстом (размер шрифта увеличен до 32px) -->
     <td style="vertical-align: middle; border: none; width: 100%;">
       <h2 style="margin: 0; padding: 0; border: none; font-size: 32px;">WE ARE 𐍃𐌵BJE𑀝T T𐌏...</h2>
