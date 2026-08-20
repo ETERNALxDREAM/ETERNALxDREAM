@@ -62,13 +62,14 @@
 <h2 align="center">ʜɪ3: ᴋɪᴀɴᴀ ᴀᴛ ᴛʜᴇ ʙᴇɢɪɴɴɪɴɢ[ᴍᴀʏʙᴇ],ᴠɪᴛᴀ, ᴘᴀʀᴅᴏғᴇʟɪs[ᴍᴀʏʙᴇ],sɪʀɪɴ
 <h2 align="center">ʙsᴅ: ᴅᴀᴢᴀɪ[ᴍᴀʏʙᴇ],ᴇᴅɢᴀʀ[ᴍᴀʏʙᴇ]
 <h4 align="center">ᴅɪsᴄʟᴀɪᴍᴇʀ: ᴍʏ ᴋɪɴɴs ᴄᴀɴ ᴄʜᴀɴɢᴇ ᴅᴇᴘᴇɴᴅɪɴɢ ᴏɴ ᴍʏ ᴍᴏᴏᴅ. ɪɴsᴛᴀʙɪʟɪᴛʏ!!!!!!!!!!<h4></h4>
-/
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
 <!-- Колонка с эйдолоном (размер увеличен до 120px) -->
     <td style="vertical-align: middle; border: none; padding-right: 20px;">
-      <img width="300" height="270" alt="1000032727" src="https://github.com/user-attachments/assets/75ffab3f-210f-48fa-a282-358cd302dacf" />
+      <img width="400" height="300" alt="1000032727" src="https://github.com/user-attachments/assets/75ffab3f-210f-48fa-a282-358cd302dacf" />
     <!-- Колонка с текстом (размер шрифта увеличен до 32px) -->
     <td style="vertical-align: middle; border: none; width: 100%;">
-      <h2 style="margin: 0; padding: 0; border: none; font-size: 32px;">GONE</h2>
+      <h2 style="margin: 0; padding: 0; border: none; font-size: 32px;">MEMORY GONE</h2>
     </td>
   </tr>
 </table>
