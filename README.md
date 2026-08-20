@@ -9,7 +9,7 @@
   <tr>
     <!-- Колонка с эйдолоном (размер увеличен до 120px) -->
     <td style="vertical-align: middle; border: none; padding-right: 20px;">
-      <img width="200" height="200" alt="1000032690" src="https://github.com/user-attachments/assets/c2788aa6-d265-437e-93a1-4f54769ba3e2" />
+      <img width="300" height="270" alt="1000032717" src="https://github.com/user-attachments/assets/b4bb6b09-4fe5-47cd-a3f2-a2921e636c6d" />
     <!-- Колонка с текстом (размер шрифта увеличен до 32px) -->
     <td style="vertical-align: middle; border: none; width: 100%;">
       <h2 style="margin: 0; padding: 0; border: none; font-size: 32px;">A 𑀥REA𐌑 T𐋏AT 𑀉A𐍃T𐍃 A 𑀉IFETI𐌑E</h2>
@@ -55,3 +55,4 @@
 </table>
 <hr style="height: 1px; border: none; background-color: #30363d; margin-top: 15px;" />    
 <h3 align="left">«ᴇᴍᴏᴛɪᴏɴs ᴀɴᴅ ғᴇᴇʟɪɴɢs... sᴏᴍᴇᴛʜɪɴɢ ᴛʜᴀᴛ ɪs ɢɪᴠᴇɴ ᴛᴏ ᴀʟᴍᴏsᴛ ᴇᴠᴇʀʏ ʟɪᴠɪɴɢ ʙᴇɪɴɢ, ᴀɴᴅ sᴏᴍᴇᴛʜɪɴɢ ᴛʜᴀᴛ ɪs ᴀ ᴅᴏᴜʙʟᴇ-ᴇᴅɢᴇᴅ sᴡᴏʀᴅ. ᴀʟᴛʜᴏᴜɢʜ ᴇᴠᴇʀʏᴛʜɪɴɢ ɪɴ ᴛʜɪs ᴡᴏʀʟᴅ ɪs ᴀ ᴅᴏᴜʙʟᴇ-ᴇᴅɢᴇᴅ sᴡᴏʀᴅ! ɪᴛ ᴀʟʟ ᴅᴇᴘᴇɴᴅs ᴏɴ ᴛʜᴇ ᴄᴀʀʀɪᴇʀ.»
+
