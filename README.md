@@ -3,7 +3,7 @@
 <h3 align="center">...right?<h3></h3>
 <h2 align="center">A dream that warmed me,there you and I are happy.<h2></h2>
 
-<img width="100" height="180" alt="1000032691" src="https://github.com/user-attachments/assets/f3c5a9b6-9893-47ee-9767-37c929baa4dd" /><
+
     
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -41,3 +41,17 @@
 <h3 align="left">«ʟᴏᴠᴇᴅ ᴀɴᴅ ʜᴀᴛᴇᴅ... ɪ ᴡᴏɴᴅᴇʀ, ɪsɴ'ᴛ ɪᴛ ᴍʏ ʀᴇᴀᴅᴇʀ? ᴛʜᴇsᴇ ᴀʀᴇ ᴀ ᴘᴇʀsᴏɴ’s ᴘʀᴇғᴇʀᴇɴᴄᴇs, ᴛʜᴇʏ ᴀʀᴇ ғᴏʀᴍᴇᴅ ʙʏ ᴠᴀʟᴜᴇs, ᴜᴘʙʀɪɴɢɪɴɢ, ᴀɢᴇ, ᴀɴᴅ ᴇɴᴠɪʀᴏɴᴍᴇɴᴛ. ɪ ᴍᴀʏ ɴᴏᴛ ʜᴀᴠᴇ ʟɪsᴛᴇᴅ ᴀʟʟ ᴛʜᴇ ʀᴇᴀsᴏɴs, ʙᴇᴄᴀᴜsᴇ ɪ ᴅᴏɴ'ᴛ ᴜɴᴅᴇʀsᴛᴀɴᴅ ᴘᴇᴏᴘʟᴇ ᴠᴇʀʏ ᴡᴇʟʟ, ʜᴀʜ.»
 <h2 align="center">ᴅᴏ ɴᴏᴛ ɪɴᴛᴇʀᴀᴄᴛ[ᴅɴɪ]: ɢᴀᴄʜᴀ ɢᴀᴍᴇs ʜᴀᴛᴇʀs, ғʏᴏʟᴀɪ, ʜᴇᴛᴇʀᴏᴘʜᴏʙɪᴄ, ᴀɢʀᴏ ᴡʟᴡ sʜɪᴘᴘᴇʀs, ʀᴀᴄɪsᴛs.
 <h4 align="center">ᴡᴀʀɴɪɴɢ ᴀʙᴏᴜᴛ ᴍᴇ[ᴅɪsᴄʟᴀɪᴍᴇʀ]: ɪɴsᴛᴀʙɪʟɪᴛʏ, ʟᴏᴡ ᴇᴍᴏᴛɪᴏɴᴀʟ ᴀɴᴅ sᴏᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ, sᴜᴅᴅᴇɴ ᴄᴏʟᴅ, ɪɢɴᴏʀɪɴɢ, ᴏʙsᴇssɪᴏɴ, ʜʏᴘᴇʀғɪx, ᴘʀᴇᴊᴜᴅɪᴄᴇ ᴀɢᴀɪɴsᴛ sᴏᴍᴇ ᴘᴇᴏᴘʟᴇ.<h4></h4>
+    
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- Колонка с эйдолоном (размер увеличен до 120px) -->
+    <td style="vertical-align: middle; border: none; padding-right: 20px;">
+      <img width="300" height="210" alt="1000032691" src="https://github.com/user-attachments/assets/f3c5a9b6-9893-47ee-9767-37c929baa4dd" /><
+    <!-- Колонка с текстом (размер шрифта увеличен до 32px) -->
+    <td style="vertical-align: middle; border: none; width: 100%;">
+      <h2 style="margin: 0; padding: 0; border: none; font-size: 32px;">WE ARE 𐍃𐌵BJE𑀝T T𐌏...</h2>
+    </td>
+  </tr>
+</table>
+<hr style="height: 1px; border: none; background-color: #30363d; margin-top: 15px;" />    
+<h3 align="left">«ᴇᴍᴏᴛɪᴏɴs ᴀɴᴅ ғᴇᴇʟɪɴɢs... sᴏᴍᴇᴛʜɪɴɢ ᴛʜᴀᴛ ɪs ɢɪᴠᴇɴ ᴛᴏ ᴀʟᴍᴏsᴛ ᴇᴠᴇʀʏ ʟɪᴠɪɴɢ ʙᴇɪɴɢ, ᴀɴᴅ sᴏᴍᴇᴛʜɪɴɢ ᴛʜᴀᴛ ɪs ᴀ ᴅᴏᴜʙʟᴇ-ᴇᴅɢᴇᴅ sᴡᴏʀᴅ. ᴀʟᴛʜᴏᴜɢʜ ᴇᴠᴇʀʏᴛʜɪɴɢ ɪɴ ᴛʜɪs ᴡᴏʀʟᴅ ɪs ᴀ ᴅᴏᴜʙʟᴇ-ᴇᴅɢᴇᴅ sᴡᴏʀᴅ! ɪᴛ ᴀʟʟ ᴅᴇᴘᴇɴᴅs ᴏɴ ᴛʜᴇ ᴄᴀʀʀɪᴇʀ.»
