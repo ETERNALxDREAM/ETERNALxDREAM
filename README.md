@@ -3,6 +3,8 @@
 <h3 align="center">... 𝘳𝘪𝘨𝘩𝘵?<h3>
     
 <h1 align="center">𝖠 𝖽𝗋𝖾𝖺𝗆 𝗍𝗁𝖺𝗍 𝗐𝖺𝗋𝗆𝖾𝖽 𝗆𝖾,𝗍𝗁𝖾𝗋𝖾 𝗒𝗈𝗎 𝖺𝗇𝖽 𝖨 𝖺𝗋𝖾 𝗁𝖺𝗉𝗉𝗒.<h2></h2>
+<p align="center"><a href="https://t.me">my tg info</a></p>
+
 
 
     
